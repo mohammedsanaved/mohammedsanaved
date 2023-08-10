@@ -1,32 +1,56 @@
-<h1 align="center">Hi 👋, I'm Mohammed Sanaved</h1>
-<h3 align="center">A passionate frontend developer from India & interested in OpenSource Contributions </h3>
+## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I am Mohammed Sanaved ! Great to see you here!
+
+I am Mohammed Sanaved, an enthusiastic and motivated Student in the firld of computer science with a keen knowledge of FrontEnd Development **ReactJS** **JavaScript** **Tailwind** Now i am learning BackEnd Technology **NodeJs** **ExpressJs** **MongoDB** **GraphQl**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedsanaved&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedsanaved" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mosanaved" target="blank"><img src="https://img.shields.io/twitter/follow/mosanaved?logo=twitter&style=for-the-badge" alt="mosanaved" /></a> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-sanaved-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mohammedsanaved/)](https://www.linkedin.com/in/mohammedsanaved/)
+[![Instagram Badge](https://img.shields.io/badge/-mosanaved_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mosanaved_/)](https://www.instagram.com/mosanaved_/)
+[![Gmail Badge](https://img.shields.io/badge/-mosanaved@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek.pub9503@gmail.com)](mailto:mosanaved@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-mosanaved_-blue?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/mosanaved_/)](https://www.twitter.com/mosanaved_/)
 
-- 🔭 I’m currently working on [React_ZerotoPro](https://github.com/mohammedsanaved/react_Zero_To_Pro)
+[![Mohammed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammedsanaved&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- 🌱 I’m currently learning **ReactJS, Redux**
+## 📈 Stats
 
-- 💬 Ask me about **Javascript**
-
-- 📫 How to reach me **mosanaved@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mosanaved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mosanaved" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammedsanaved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedsanaved" height="30" width="40" /></a>
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohammedsanaved&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedsanaved&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+## ⚡ Technologies
 
+### Language :
 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedsanaved&show_icons=true&locale=en" alt="mohammedsanaved" /></p>
+### Libraries & Framework :
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedsanaved&" alt="mohammedsanaved" /></p>
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
 
+<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) -->
+
+<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Tailwind%20-%23D00000.svg?logo=Tailwind&logoColor=white"></a>
+<a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
+
+### DevOps & Cloud Tools:
+
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
+
+<!-- ## 💰 Support -->
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mosanaved"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mosanaved" /></a></p>
