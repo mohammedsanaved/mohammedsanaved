@@ -1,6 +1,10 @@
 ## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I am Mohammed Sanaved ! Great to see you here!
 
-I am Mohammed Sanaved, an enthusiastic and motivated Fresher Student of computer science with a keen knowledge of FrontEnd Development **ReactJS**, **JavaScript**, **Tailwind**. Now I am learning BackEnd Technology **NodeJs**, **ExpressJs** ,**MongoDB**, **GraphQl**
+
+I am Mohammed Sanaved, an enthusiastic and motivated Fresher Student of computer science with a keen knowledge of FrontEnd 
+Development **ReactJS**, **JavaScript**, **Tailwind**. Now I am learning BackEnd Technology **NodeJs**, **ExpressJs** 
+,**MongoDB**, **REST API**
+**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedsanaved&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedsanaved" /> </p>
 
