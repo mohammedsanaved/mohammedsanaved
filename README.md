@@ -11,9 +11,8 @@ Development **ReactJS**, **JavaScript**, **Tailwind**. Now I am learning BackEnd
 [![Instagram Badge](https://img.shields.io/badge/-mosanaved_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mosanaved_/)](https://www.instagram.com/mosanaved_/)
 [![Gmail Badge](https://img.shields.io/badge/-mosanaved@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek.pub9503@gmail.com)](mailto:mosanaved@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-mosanaved_-blue?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/mosanaved_/)](https://www.twitter.com/mosanaved_/)
-
-[![Mohammed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammedsanaved&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<!-- [![Mohammed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammedsanaved&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ -->
 ## 📈 Stats
 
 <p align="center">
