@@ -1,11 +1,11 @@
 ## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I am Mohammed Sanaved . Great to see you here!
 
-
-I am Mohammed Sanaved, an enthusiastic and motivated Fresher Student of computer science with a keen knowledge of FrontEnd 
-Development **ReactJS**, **JavaScript**, **Tailwind**. Now I am learning BackEnd Technology **NodeJs**, **ExpressJs** 
+I am Mohammed Sanaved, an enthusiastic and motivated Fresher Student of computer science with a keen knowledge of FrontEnd
+Development **ReactJS**, **JavaScript**, **Tailwind**. Now I am learning BackEnd Technology **NodeJs**, **ExpressJs**
 ,**MongoDB**, **REST API**
+
 <p>
-	<a href="https://mohammedsanaved-portfolio.vercel.app/">Portfolio</a>
+    <a href="https://mohammedsanaved-portfolio.vercel.app/" style="font-size: 30px; font-weight: bold; background-color: white; color: black; padding: 2px;">Portfolio Link</a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedsanaved&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedsanaved" /> </p>
@@ -14,8 +14,10 @@ Development **ReactJS**, **JavaScript**, **Tailwind**. Now I am learning BackEnd
 [![Instagram Badge](https://img.shields.io/badge/-mosanaved_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mosanaved_/)](https://www.instagram.com/mosanaved_/)
 [![Gmail Badge](https://img.shields.io/badge/-mosanaved@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek.pub9503@gmail.com)](mailto:mosanaved@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-mosanaved_-blue?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/mosanaved_/)](https://www.twitter.com/mosanaved_/)
+
 <!-- [![Mohammed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammedsanaved&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  -->
+
 ## 📈 Stats
 
 <p align="center">
