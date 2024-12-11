@@ -9,7 +9,7 @@ Development **ReactJS**, **JavaScript**, **Tailwind**. Now I am learning BackEnd
 ,**MongoDB**, **REST API**
 
 <p>
-    <a href="https://mohammedsanaved-portfolio.vercel.app/" style="font-size: 30px; font-weight: bold; background-color: white; color: black; padding: 2px;">Portfolio Link</a>
+    <a href="https://mohammedsanaved.vercel.app/" style="font-size: 30px; font-weight: bold; background-color: white; color: black; padding: 2px;">Portfolio Link</a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedsanaved&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedsanaved" /> </p>
